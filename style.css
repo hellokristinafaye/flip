@@ -3,6 +3,23 @@
 }
 .title {
     text-align: center;
-    margin: 40px auto 40px;
-    
+    margin: 40px auto 40px;   
+}
+.flip-card {
+    width: 300px;
+    height: 450px;
+    margin: auto;
+}
+.flip-card-back {
+    background-color: #ff5722;
+    color: #fff;  
+    text-align: center;
+}
+.back-header {
+    height: 45%;
+    text-align: center;
+}
+.flip-card-back .back-header img {
+    width: 50%;
+    margin-top: 20px;
 }
